@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://yourproject.pages.dev/sitemap.xml
+
+Sitemap: https://binoculars.javoronok-es.workers.dev/sitemap.xml
