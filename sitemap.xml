@@ -2,45 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
   <url>
-    <loc>https://yourproject.pages.dev/</loc>
+    <loc>https://binoculars.javoronok-es.workers.dev/</loc>
     <lastmod>2026-03-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
 
   <url>
-    <loc>https://yourproject.pages.dev/binoculars.html</loc>
+    <loc>https://binoculars.javoronok-es.workers.dev/binoculars.html</loc>
     <lastmod>2026-03-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://yourproject.pages.dev/telescopes.html</loc>
+    <loc>https://binoculars.javoronok-es.workers.dev/telescopes.html</loc>
     <lastmod>2026-03-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://yourproject.pages.dev/night-vision.html</loc>
+    <loc>https://binoculars.javoronok-es.workers.dev/night-vision.html</loc>
     <lastmod>2026-03-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://yourproject.pages.dev/rangefinders.html</loc>
+    <loc>https://binoculars.javoronok-es.workers.dev/rangefinders.html</loc>
     <lastmod>2026-03-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://yourproject.pages.dev/microscopes.html</loc>
+    <loc>https://binoculars.javoronok-es.workers.dev/microscopes.html</loc>
     <lastmod>2026-03-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
+
 
 </urlset>
